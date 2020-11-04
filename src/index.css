@@ -4,4 +4,8 @@ body {
 
 kbd {
     background-color: #FFF;
+    padding: 5px 30px 100px;
+    border: solid gray 2px;
+    margin-left: -5px;
 }
+
