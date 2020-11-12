@@ -50,11 +50,7 @@ body {
 
 .black-keys {
     position: relative;
-<<<<<<< HEAD
-    bottom: 491px;
-=======
     bottom: 492px;
->>>>>>> 3ddc778... Added styling to the ids of the black piano keys and to class black-keys
     z-index: 0;
     width: 27%;
     padding-left: 15px;
