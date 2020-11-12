@@ -2,18 +2,63 @@ body {
     background-color: #654321;
 }
 
-kbd {
+.white-keys kbd {
     background-color: #FFF;
     border: solid gray 2px;
     text-align: center;
     padding-top: 130px;
+    padding-bottom: 20px;
     margin-left: -4px;
     display: inline-block;
-    width: 60px;
-    height: 50px;
+    width: 13.6%;
 }
 
-.container {
-    width: 34%;
-    margin: 15% auto;
+.black-keys kbd {
+    background-color: #000;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    display: inline-block;
+    width: 20px;
+}
+
+#KeyW {
+    position: relative;
+    left: 46px;
+}
+
+#KeyE {
+    position: relative;
+    left: 98px;
+}
+
+#KeyT {
+    position: relative;
+    left: 227px;
+}
+
+#KeyY {
+    position: relative;
+    left: 280px;
+}
+
+#KeyU {
+    position: relative;
+    left: 332px;
+}
+
+.black-keys {
+    position: relative;
+    bottom: 492px;
+    z-index: 0;
+    width: 27%;
+    padding-left: 15px;
+    margin: auto;
+ }
+
+.white-keys {
+    z-index: -1;
+    width: 28%;
+    margin: 17% auto;
 }
