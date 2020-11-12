@@ -1,4 +1,4 @@
-# Virtual-piano
+# Virtual-Piano
 
 A webpage where you can play a virtual piano by pressing the keys displayed on the piano on your keyboard.
 
