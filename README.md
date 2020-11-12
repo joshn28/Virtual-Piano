@@ -5,5 +5,5 @@ A webpage where you can play a virtual piano by pressing the keys displayed on t
 ## What I Learned
 
 - Writing markup HTML Documents
-- How to style using CSS properties
+- How to style webpages using CSS on HTML properties
 - Using Javascript to create event handlers for browser events
